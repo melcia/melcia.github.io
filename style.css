@@ -1,6 +1,28 @@
-p{color:rgb(54, 15, 102)}
-p{font-size:medium}
-p{font-weight:700}
-p{font-family:Georgia, 'Times New Roman', Times, serif}
+p{
+    color:#a10404;
+    font-size:large;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+body
+{
+  background-color:black;
+  }
 
-body{background-color: rgb(116, 59, 21);}
+#head 
+{
+  font-size:70px;
+  text-align: center;
+}
+
+div
+{
+  max-width: 700px;
+  margin: auto;
+
+}
+
+
+
